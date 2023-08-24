@@ -1,6 +1,6 @@
 [![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9kbjBjamJ5d2oyNDhkeGE5NzY3b2Zmb3IxcXIyNHpieWw4bDcwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Ahmet Bilal Arikan</h1>
-<h3 align="center">A software engineer passionate about data analysis, machine learning, and building robust applications</h3>
+<h3 align="center">A computer engineer passionate about data analysis, machine learning, and building robust applications</h3>
 <img align="right" alt="Coding" width="400" src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif">
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and AI**
